@@ -42,6 +42,7 @@ Place | Team | Name | Scorers | Total Points
 1 | Central High | 1+4+6+7+10 (13+16) | 28
 2 | Springfield | 2+3+8+11+12 (15+18) | 36
 3 | Gray County | 5+9+14+17+19 (20+21) | 64
+
  Jake Sandefur and Shawn Berger from Hamilton Academy did not receive points because their team has less than five runners. Also notice that Hamilton Academy is not listed in the team scores.
  Ethan Conrad from Central High did not receive points because he was the 8th place finisher for his team. Only the top seven places per team can earn points.
 
