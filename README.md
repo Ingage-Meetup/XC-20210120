@@ -9,33 +9,33 @@ Cross country running is both an individual and a team sport. Individuals are ra
 
 Here is an example that shows the finish place, along with points awarded and total team scores for a race with participants from four different teams:
 
-| Place | Athlete Name | Team Name | Elapsed Time | Points |
-| ----- | ------------ | --------- | ------------ | ------ |
+| Place | Athlete Name     | Team Name        | Elapsed Time | Points |
+| ----- | ---------------- | ---------------- | ------------ | ------ |
+| 1     | Noah Perry       | Central High     | 17:35        | 1      |
+| 2     | Jake Sandefur    | Hamilton Academy | 17:43        |
+| 3     | Sam Gibbs        | Springfield      | 17:44        | 2      |
+| 4     | David Sander     | Springfield      | 17:59        | 3      |
+| 5     | Lucas Webster    | Central High     | 18:19        | 4      |
+| 6     | Jack Hatton Gray | County           | 18:24        | 5      |
+| 7     | Logan Walters    | Central High     | 18:40        | 6      |
+| 8     | Bradley Davis    | Central High     | 18:54        | 7      |
+| 9     | Cameron Brockman | Springfield      | 19:03        | 8      |
+| 10    | James Springer   | Gray County      | 19:08        | 9      |
+| 11    | Dylan Hasler     | Central High     | 19:10        | 10     |
+| 12    | Shawn Berger     | Hamilton Academy | 19:23        |
+| 13    | Austin Schwartz  | Springfield      | 19:31        | 11     |
+| 14    | Tyler Bergman    | Springfield      | 19:34        | 12     |
+| 15    | Brandon Schultz  | Central High     | 19:35        | 13     |
+| 16    | Evan Holtz       | Gray County      | 19:36        | 14     |
+| 17    | Josh Obermeyer   | Springfield      | 19:44        | 15     |
+| 18    | Alex Morris      | Central High     | 19:50        | 16     |
+| 19    | William Cook     | Gray County      | 19:56        | 17     |
+| 20    | Justin Holloway  | Springfield      | 19:57        | 18     |
+| 21    | Hunter Kohlsmith | Gray County      | 19:58        | 19     |
+| 22    | Anthony Rone     | Gray County      | 20:05        | 20     |
+| 23    | Ethan Conrad     | Central High     | 20:09        |
+| 24    | Matthew McCain   | Gray County      | 20:26        | 21     |
 
-| 1 | Noah Perry | Central High | 17:35 | 1 |
-2 Jake Sandefur Hamilton Academy 17:43
-3 Sam Gibbs Springfield 17:44 2
-4 David Sander Springfield 17:59 3
-5 Lucas Webster Central High 18:19 4
-6 Jack Hatton Gray County 18:24 5
-7 Logan Walters Central High 18:40 6
-8 Bradley Davis Central High 18:54 7
-9 Cameron Brockman Springfield 19:03 8
-10 James Springer Gray County 19:08 9
-11 Dylan Hasler Central High 19:10 10
-12 Shawn Berger Hamilton Academy 19:23
-13 Austin Schwartz Springfield 19:31 11
-14 Tyler Bergman Springfield 19:34 12
-15 Brandon Schultz Central High 19:35 13
-16 Evan Holtz Gray County 19:36 14
-17 Josh Obermeyer Springfield 19:44 15
-18 Alex Morris Central High 19:50 16
-19 William Cook Gray County 19:56 17
-20 Justin Holloway Springfield 19:57 18
-21 Hunter Kohlsmith Gray County 19:58 19
-22 Anthony Rone Gray County 20:05 20
-23 Ethan Conrad Central High 20:09
-24 Matthew McCain Gray County 20:26 21
 Team Scores
 Place Team Name Scorers Total Points
 1 Central High 1+4+6+7+10 (13+16) 28
