@@ -48,39 +48,36 @@ Place | Team Name | Scorers | Total Points
 
 Implement the GetTeamScores() function shown below. The function accepts a list of race participants who finished the race, and returns a list of team scores. You can assume that the list of race participants is already ordered by finish place. Your function should return a list of team scores ordered by the team finish place (i.e., the winning team should be index 0). Each TeamScore element in the returned list should include the Team Name, the Total Points earned by the team, and a list of point values for all participants on the team who earned points.
 
-using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace XCTeamScores
-{
-public class Participant
-{
-public string AthleteName;
-public string TeamName;
-public string Duration;
-}
-
-    public class TeamScore
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    namespace XCTeamScores
     {
-        public string TeamName;
-        public int TotalPoints;
-        public List<int> ParticipatePoints;
-
-        public TeamScore(string teamName)
+        public class Participant
+            {
+            public string AthleteName;
+            public string TeamName;
+            public string Duration;
+        }
+        public class TeamScore
         {
-            TeamName = teamName;
-            TotalPoints = 0;
-            ParticipatePoints = new List<int>();
+            public string TeamName;
+            public int TotalPoints;
+            public List<int> ParticipatePoints;
+
+            public TeamScore(string teamName)
+            {
+                TeamName = teamName;
+                TotalPoints = 0;
+                ParticipatePoints = new List<int>();
+            }
+        }
+
+        public class ScoreManager
+        {
+            public List<TeamScore> GetTeamScores(List<Participant> participants)
+            {
+                // implement this function
+            }
         }
     }
-
-    public class ScoreManager
-    {
-        public List<TeamScore> GetTeamScores(List<Participant> participants)
-        {
-            // implement this function
-        }
-    }
-
-}
