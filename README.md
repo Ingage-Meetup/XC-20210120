@@ -12,7 +12,7 @@ Here is an example that shows the finish place, along with points awarded and to
 | Place | Athlete Name | Team Name | Elapsed Time | Points |
 | ----- | ------------ | --------- | ------------ | ------ |
 
-1 Noah Perry Central High 17:35 1
+| 1 | Noah Perry | Central High | 17:35 | 1 |
 2 Jake Sandefur Hamilton Academy 17:43
 3 Sam Gibbs Springfield 17:44 2
 4 David Sander Springfield 17:59 3
