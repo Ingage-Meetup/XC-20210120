@@ -53,29 +53,19 @@ Implement the GetTeamScores() function shown below. The function accepts a list 
     using System.Linq;
     namespace XCTeamScores
     {
-        public class Participant
-            {
-            public string AthleteName;
-            public string TeamName;
-            public string Duration;
+        public class Runner
+        {
+
         }
+
         public class TeamScore
         {
-            public string TeamName;
-            public int TotalPoints;
-            public List<int> ParticipatePoints;
 
-            public TeamScore(string teamName)
-            {
-                TeamName = teamName;
-                TotalPoints = 0;
-                ParticipatePoints = new List<int>();
-            }
         }
 
         public class ScoreManager
         {
-            public List<TeamScore> GetTeamScores(List<Participant> participants)
+            public List<TeamScore> GetTeamScores(List<Runner> participants)
             {
                 // implement this function
             }
